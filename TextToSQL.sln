@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToSQL", "TextToSQL\TextToSQL.csproj", "{D297B4E8-E4C6-4D55-A9E0-5438E3B5F32D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D297B4E8-E4C6-4D55-A9E0-5438E3B5F32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D297B4E8-E4C6-4D55-A9E0-5438E3B5F32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D297B4E8-E4C6-4D55-A9E0-5438E3B5F32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D297B4E8-E4C6-4D55-A9E0-5438E3B5F32D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
